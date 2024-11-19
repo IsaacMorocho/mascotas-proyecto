@@ -170,5 +170,5 @@ footer {
     text-decoration: underline;
 }
 .imgpatron{
-    opacity: 0.5;
+    filter:opacity(0.5);
 }
